@@ -1,2 +1,11 @@
 name: Azevedo Lab
+title: University of Houston
+subtitle: Biology & Biochemistry
+email: razevedo@uh.edu
 remote_theme: andrewbanchich/forty-jekyll-theme
+
+# contact
+twitter_url: https://twitter.com/rbazev
+
+# build settings
+markdown: kramdown
