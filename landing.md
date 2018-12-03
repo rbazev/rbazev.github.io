@@ -1,8 +1,8 @@
 ---
 title: Projects
 layout: landing
-description: 'What we are thinking about now'
-image: assets/images/pic07.jpg
+description: 'What we are thinking about now.'
+image: assets/images/neutral.jpg
 nav-menu: true
 ---
 
