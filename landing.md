@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: landing
-description: 'What we are thinking about now.'
+description: 'What we are working on now.'
 image: assets/images/neutral.jpg
 nav-menu: true
 ---
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Epistasis</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Evolutionary causes and consequences of the ways in which genes interact with each other to influence phenotypes.</p>
 	</div>
 </section>
 
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Evolution of sex</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The vast majority of organisms alive today have experienced some form of genetic exchange, or sex, in their recent evolutionary history, despite substantial costs.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Speciation</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Genetic incompatibilities can emerge as a byproduct of genetic divergence. According to Dobzhansky and Muller, an allele that fixes in one population may be incompatible with an allele at a different locus in another population when the two alleles are brought together in hybrids.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -62,7 +62,7 @@ nav-menu: true
 				<header class="major">
 					<h3>High-order epistasis</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>High-order epistasis.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
