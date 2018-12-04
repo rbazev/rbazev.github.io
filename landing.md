@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Research
 layout: landing
-description: 'What we are working on now.'
+description: 'Some of the projects we are working on now.'
 image: assets/images/neutral.jpg
 nav-menu: true
 ---
