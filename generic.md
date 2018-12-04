@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Publications
-description: Lorem ipsum dolor est
+layout: post
+description: 'Our papers and preprints.'
 image: assets/images/papers.jpg
 nav-menu: true
 ---

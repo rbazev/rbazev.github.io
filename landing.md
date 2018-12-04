@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: landing
+layout: post
 description: 'Some of the projects we are working on now.'
 image: assets/images/wave.jpg
 nav-menu: true
