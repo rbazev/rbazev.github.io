@@ -8,6 +8,12 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 # contact
 twitter_url: https://twitter.com/rbazev
 github_url: https://github.com/rbazev
+street_address: Department of Biology & Biochemistry
+city: Houston
+state: TX
+zip_code: 77204-5001
+country: United States of America
+phone: (713) 743-4149
 
 # build settings
 markdown: kramdown
