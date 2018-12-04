@@ -60,7 +60,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>High-order epistasis</h3>
+					<h3>Evolution of robustness</h3>
 				</header>
 				<p>High-order epistasis.</p>
 				<ul class="actions">
