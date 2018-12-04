@@ -6,32 +6,29 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-# Preprints {#preprints .unnumbered .unnumbered}
+# Preprints
 
-Chipkin L, Olofsson P, Daileda RC, **Azevedo RBR** (2018) Muller's ratchet in asexual
-populations doomed to extinction. [*bioRxiv* 448563](https://www.biorxiv.org/content/early/2018/10/22/448563).
+* Chipkin L, Olofsson P, Daileda RC, **Azevedo RBR** (2018) Muller's ratchet in asexual
+populations doomed to extinction. [*bioRxiv* 448563](https://www.biorxiv.org/content/early/2018/11/13/448563).
 
-Whitlock AOB, **Azevedo RBR**, Burch CL (2018) Population structure promotes the
-evolution of costly sex in artificial gene networks. [*bioRxiv* 333377](https://www.biorxiv.org/content/early/2018/05/30/333377).
+* Whitlock AOB, **Azevedo RBR**, Burch CL (2018) Population structure promotes the
+evolution of costly sex in artificial gene networks. [*bioRxiv* 333377](https://www.biorxiv.org/content/early/2018/11/05/333377).
 
-Paixão T, Bassler KE, **Azevedo RBR** (2015) Emergent speciation by multiple
+* Paixão T, Bassler KE, **Azevedo RBR** (2015) Emergent speciation by multiple
 Dobzhansky-Muller incompatibilities. [*bioRxiv* 008268](https://www.biorxiv.org/content/early/2015/07/07/008268). 
 
-# Papers in press {#papers-in-press .unnumbered .unnumbered}
 
-1. , **Azevedo RBR**, Zheng Y. The evolution of small-RNA-mediated
+# Papers
+
+* Kelleher ES, **Azevedo RBR**, Zheng Y. The evolution of small-RNA-mediated
    silencing of an invading transposable element. [*Genome Biology and
-   Evolution*. doi:
-   10.1093/gbe/evy218](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evy218/5106661).
+   Evolution* 10: 3038-3057](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evy218/5106661).
 
-## Papers published {#papers-published .unnumbered .unnumbered}
-
-, Graur D, **Azevedo RBR** (2018) Correlated selection on amino acid
+Zheng Y, , Graur D, **Azevedo RBR** (2018) Correlated selection on amino acid
 deletion and replacement in mammalian protein sequences. [*Journal of
-Molecular Evolution* 86:
-365--378](https://link.springer.com/article/10.1007%2Fs00239-018-9853-9).
+Molecular Evolution* 86: 365-378](https://link.springer.com/article/10.1007%2Fs00239-018-9853-9).
 
-Suárez-Villagrán MY, **Azevedo RBR**, (2018) Influence of electron holes
+Suárez-Villagrán MY, **Azevedo RBR**, Miller JH Jr (2018) Influence of electron holes
 on DNA sequence-specific mutation rates. [*Genome Biology and Evolution*
 10: 1039--1047](https://academic.oup.com/gbe/article/10/4/1039/4951197).
 
