@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Ricardo Azevedo Lab'
+landing-title: 'Azevedo Lab'
 description: null
 image: null
 author: null
