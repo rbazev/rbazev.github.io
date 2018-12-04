@@ -2,7 +2,7 @@
 title: Research
 layout: landing
 description: 'Some of the projects we are working on now.'
-image: assets/images/neutral.jpg
+image: assets/images/wave.jpg
 nav-menu: true
 ---
 
