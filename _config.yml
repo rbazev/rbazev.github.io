@@ -5,6 +5,10 @@ email: razevedo@uh.edu
 description: Theoretical evolutionary genetics
 remote_theme: andrewbanchich/forty-jekyll-theme
 
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
 # contact
 twitter_url: https://twitter.com/rbazev
 github_url: https://github.com/rbazev
