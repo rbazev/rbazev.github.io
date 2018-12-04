@@ -1,10 +1,13 @@
+# site settings
 title: Azevedo Lab
 subtitle: University of Houston
 email: razevedo@uh.edu
+description: Theoretical evolutionary genetics
 remote_theme: andrewbanchich/forty-jekyll-theme
 
 # contact
 twitter_url: https://twitter.com/rbazev
+github_url: https://github.com/rbazev
 
 # build settings
 markdown: kramdown
