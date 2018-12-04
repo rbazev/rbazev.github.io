@@ -1,7 +1,7 @@
 ---
 title: Publications
-layout: post
-description: 'Our papers and preprints.'
+layout: landing
+description: 'Our papers and preprints'
 image: assets/images/papers.jpg
 nav-menu: true
 ---
