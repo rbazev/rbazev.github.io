@@ -6,7 +6,7 @@ image: assets/images/papers.jpg
 nav-menu: true
 ---
 
-#* Preprints
+## Preprints
 
 * Chipkin L, Olofsson P, Daileda RC, **Azevedo RBR** (2018) Muller's ratchet in asexual
 populations doomed to extinction. [*bioRxiv* 448563](https://www.biorxiv.org/content/early/2018/11/13/448563).
@@ -18,7 +18,7 @@ evolution of costly sex in artificial gene networks. [*bioRxiv* 333377](https://
 Dobzhansky-Muller incompatibilities. [*bioRxiv* 008268](https://www.biorxiv.org/content/early/2015/07/07/008268). 
 
 
-#* Papers
+## Papers
 
 * Kelleher ES, **Azevedo RBR**, Zheng Y (2018) The evolution of small-RNA-mediated silencing of an invading transposable element. 
 [*Genome Biology and
