@@ -130,9 +130,9 @@ nav-menu: true
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Ata Kalirad</h3>
+                    <h3>Ata Kalirad, PhD</h3>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>Ata Kalirad received his BS in cell and molecular biology from the University of Tehran in 2011 and his PhD in evolutionary biology from the University of Houston in 2016. During his PhD, he worked in the Azevedo lab on the accumulation of genetic incompatibilities. He has been working at the Institute for Research in Fundamental Sciences in Tehran since 2017, focusing on the role of stochasticity in living systems.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button">Learn more</a></li>
                 </ul>
