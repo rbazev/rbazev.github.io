@@ -132,10 +132,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Ata Kalirad, PhD</h3>
                 </header>
-                <p>Ata Kalirad received his BS in cell and molecular biology from the University of Tehran in 2011 and his PhD in evolutionary biology from the University of Houston in 2016. During his PhD, he worked in the Azevedo lab on the accumulation of genetic incompatibilities. He has been working at the Institute for Research in Fundamental Sciences in Tehran since 2017, focusing on the role of stochasticity in living systems.</p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
+                <p>Ata Kalirad received his BS in cell and molecular biology from the University of Tehran in 2011 and his PhD in evolutionary biology from the University of Houston in 2016. During his PhD, he worked with Ricardo Azevedo on the <a href="research.html" class="button">snowball effect</a>. He has been working as a postdoctoral researcher at the Institute for Research in Fundamental Sciences (<a href="http://www.ipm.ac.ir/" class="button">IPM</a>) in Tehran since 2017, focusing on the role of stochasticity in living systems.</p>
             </div>
         </div>
     </section>
