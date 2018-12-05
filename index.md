@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Azevedo Lab'
+landing-title: 'Azevedo Lab (website in construction)'
 description: null
 image: null
 author: null
