@@ -29,7 +29,8 @@ nav-menu: true
                 <header class="major">
                     <h3>Logan Chipkin</h3>
                 </header>
-                <p>Logan Chipkin received his BA in physics from the University of Pennsylvania in 2015. Since 2017, he has been working with Ricardo Azevedo and Peter Olofsson on a branching process model of Muller's Ratchet.  Currently, his research projects include (1) studying the contribution of mutators to evolutionary rescue and (2) using phylogenetic comparative methods to test the hypothesis that energy rate density has a tendency to increase during the course of evolution.</p>
+                <p>Logan Chipkin received his BA in physics from the University of Pennsylvania in 2015. Since 2017, he has been working with Ricardo Azevedo and Peter Olofsson on a model of <a href="research.html">Muller's Ratchet</a>
+                based on branching processes.  Currently, his research projects include (1) studying the contribution of mutators to evolutionary rescue and (2) using phylogenetic comparative methods to test the hypothesis that energy rate density has a tendency to increase during the course of evolution.</p>
             </div>
         </div>
     </section>
@@ -142,7 +143,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Bingjun Zhang, PhD</h3>
                 </header>
-                <p>Bingjun Zhang received her PhD in evolutionary biology from the University of Houston in 2016. During her PhD, she worked with Ricardo Azevedo on the evolution of mutation rate. She has been working as an independent software engineer in Silicon Valley since 2017.</p>
+                <p>Bingjun Zhang received her PhD in evolutionary biology from the University of Houston in 2016. During her PhD, she worked with Ricardo Azevedo on the <a href="research.html">evolution of mutation rate</a>. She has been working as an independent software engineer in Silicon Valley since 2017.</p>
             </div>
         </div>
     </section>
