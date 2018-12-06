@@ -29,7 +29,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Logan Chipkin</h3>
                 </header>
-                <p>Logan Chipkin received his BA in physics from the University of Pennsylvania in 2015. Since 2017, he has been working with Ricardo Azevedo and Peter Olofsson on Muller's Ratchet.  Currently, his research projects include (1) studying the effect of mutators on evolutionary rescue and (2) using phylogenetic comparative methods to test whether or not energy rate density is increasing over evolutionary timescales.</p>
+                <p>Logan Chipkin received his BA in physics from the University of Pennsylvania in 2015. Since 2017, he has been working with Ricardo Azevedo and Peter Olofsson on a branching process model of Muller's Ratchet.  Currently, his research projects include (1) studying the contribution of mutators to evolutionary rescue and (2) using phylogenetic comparative methods to test the hypothesis that energy rate density has a tendency to increase during the course of evolution.</p>
             </div>
         </div>
     </section>
