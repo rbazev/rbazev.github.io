@@ -48,7 +48,7 @@ nav-menu: true
     </section>
     <section>
         <a href="generic.html" class="image">
-            <img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+            <img src="assets/images/anon.jpg" alt="" data-position="25% 25%" />
         </a>
         <div class="content">
             <div class="inner">
@@ -75,7 +75,7 @@ nav-menu: true
 <section id="four" class="spotlights">
     <section>
         <a href="generic.html" class="image">
-            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+            <img src="assets/images/anon.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
@@ -91,7 +91,7 @@ nav-menu: true
     </section>
     <section>
         <a href="generic.html" class="image">
-            <img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+            <img src="assets/images/anon.jpg" alt="" data-position="top center" />
         </a>
         <div class="content">
             <div class="inner">
