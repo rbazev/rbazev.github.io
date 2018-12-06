@@ -119,6 +119,18 @@ nav-menu: true
 <section id="four" class="spotlights">
     <section>
         <a href="generic.html" class="image">
+            <img src="assets/images/anon.jpg" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Kedar Karkare, PhD</h3>
+                </header>
+                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+            </div>
+        </div>
+    </section>    <section>
+        <a href="generic.html" class="image">
             <img src="assets/images/ata.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
