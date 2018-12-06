@@ -22,17 +22,14 @@ nav-menu: true
 <section id="two" class="spotlights">
     <section>
         <a href="generic.html" class="image">
-            <img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+            <img src="assets/images/logan.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
                 <header class="major">
                     <h3>Logan Chipkin</h3>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
+                <p>Logan Chipkin received his BA in physics from the University of Pennsylvania in 2015. Since 2017, he has been working with Ricardo Azevedo and Peter Olofsson on Muller's Ratchet.  Currently, his research projects include (1) studying the effect of mutators on evolutionary rescue and (2) using phylogenetic comparative methods to test whether or not energy rate density is increasing over evolutionary timescales.</p>
             </div>
         </div>
     </section>
@@ -136,6 +133,19 @@ nav-menu: true
             </div>
         </div>
     </section>
+    <section>
+        <a href="generic.html" class="image">
+            <img src="assets/images/bingjun.jpg" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Bingjun Zhang, PhD</h3>
+                </header>
+                <p>Bingjun Zhang received her PhD in evolutionary biology from the University of Houston in 2016. During her PhD, she worked with Ricardo Azevedo on the evolution of mutation rate. She has been working as an independent software engineer in Silicon Valley since 2017.</p>
+            </div>
+        </div>
     </section>
+</section>
 </section>
 </div>
