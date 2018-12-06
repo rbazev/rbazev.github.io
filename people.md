@@ -42,7 +42,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Hao Zhang</h3>
                 </header>
-                <p>Hao Zhang received a BS degree in Biology from University of Science and Technology of China in 2011 and an MPhil degree in Life Science from The Hong Kong University of Science and Technology in 2014.  He has been a PhD student in the Ecology & Evolution graduate program since 2015, working with Ricardo Azevedo and Rebecca Zufall on the evolutionary success of asexuality in the ciliate <i>Tetrahymena</i>.</p>
+                <p>Hao Zhang received a BS degree in Biology from University of Science and Technology of China in 2011 and an MPhil degree in Life Science from The Hong Kong University of Science and Technology in 2014.  He has been a PhD student in the Ecology & Evolution graduate program since 2015, working with Ricardo Azevedo and Rebecca Zufall on the <a href="research.html">evolutionary success of asexuality</a> in the ciliate <i>Tetrahymena</i>.</p>
             </div>
         </div>
     </section>
