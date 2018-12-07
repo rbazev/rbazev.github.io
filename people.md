@@ -13,6 +13,31 @@ nav-menu: true
 <section id="one">
     <div class="inner">
         <header class="major">
+            <h2>Principal Investigator</h2>
+        </header>
+    </div>
+</section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+    <section>
+        <a href="people.html" class="image">
+            <img src="assets/images/anon.jpg" alt="" data-position="center center" />
+        </a>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Ricardo Azevedo, PhD</h3>
+                </header>
+                <p>Ricardo Azevedo received a BS in Biology from the University of Lisbon in 1992 and PhD in Evolutionary Biology from the University of Edingburgh in 1997.</p>
+            </div>
+        </div>
+    </section>
+
+<!-- One -->
+<section id="one">
+    <div class="inner">
+        <header class="major">
             <h2>Graduate students</h2>
         </header>
     </div>
