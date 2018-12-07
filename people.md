@@ -21,7 +21,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
     <section>
-        <a href="generic.html" class="image">
+        <a href="people.html" class="image">
             <img src="assets/images/logan.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
@@ -34,7 +34,7 @@ nav-menu: true
         </div>
     </section>
     <section>
-        <a href="generic.html" class="image">
+        <a href="people.html" class="image">
             <img src="assets/images/hao.jpg" alt="" data-position="top center" />
         </a>
         <div class="content">
@@ -47,7 +47,7 @@ nav-menu: true
         </div>
     </section>
     <section>
-        <a href="generic.html" class="image">
+        <a href="people.html" class="image">
             <img src="assets/images/elias.jpg" alt="" data-position="25% 25%" />
         </a>
         <div class="content">
@@ -71,7 +71,7 @@ nav-menu: true
 <!-- Four -->
 <section id="four" class="spotlights">
     <section>
-        <a href="generic.html" class="image">
+        <a href="people.html" class="image">
             <img src="assets/images/rob.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
@@ -84,7 +84,7 @@ nav-menu: true
         </div>
     </section>
     <section>
-        <a href="generic.html" class="image">
+        <a href="people.html" class="image">
             <img src="assets/images/lydia.jpg" alt="" data-position="top center" />
         </a>
         <div class="content">
@@ -109,7 +109,7 @@ nav-menu: true
 <!-- Four -->
 <section id="four" class="spotlights">
     <section>
-        <a href="generic.html" class="image">
+        <a href="people.html" class="image">
             <img src="assets/images/anon.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
@@ -121,7 +121,7 @@ nav-menu: true
             </div>
         </div>
     </section>    <section>
-        <a href="generic.html" class="image">
+        <a href="people.html" class="image">
             <img src="assets/images/ata.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
@@ -134,7 +134,7 @@ nav-menu: true
         </div>
     </section>
     <section>
-        <a href="generic.html" class="image">
+        <a href="people.html" class="image">
             <img src="assets/images/bingjun.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
