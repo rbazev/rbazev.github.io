@@ -9,7 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+<!-- one -->
 <section id="one">
     <div class="inner">
         <header class="major">
@@ -18,7 +18,7 @@ nav-menu: true
     </div>
 </section>
 
-<!-- Two -->
+<!-- two -->
 <section id="two" class="spotlights">
     <section>
         <a href="people.html" class="image">
@@ -33,9 +33,10 @@ nav-menu: true
             </div>
         </div>
     </section>
+</section>
 
-<!-- One -->
-<section id="one">
+<!-- three -->
+<section id="three">
     <div class="inner">
         <header class="major">
             <h2>Graduate students</h2>
@@ -43,8 +44,8 @@ nav-menu: true
     </div>
 </section>
 
-<!-- Two -->
-<section id="two" class="spotlights">
+<!-- four -->
+<section id="four" class="spotlights">
     <section>
         <a href="people.html" class="image">
             <img src="assets/images/logan.jpg" alt="" data-position="center center" />
@@ -86,15 +87,16 @@ nav-menu: true
     </section>
 </section>
 
-<!-- Three -->
-<section id="three">
+<!-- five -->
+<section id="five">
     <div class="inner">
         <header class="major">
             <h2>Undergraduate students</h2>
         </header>
      </div>
-<!-- Four -->
-<section id="four" class="spotlights">
+
+<!-- six -->
+<section id="six" class="spotlights">
     <section>
         <a href="people.html" class="image">
             <img src="assets/images/rob.jpg" alt="" data-position="center center" />
@@ -124,15 +126,15 @@ nav-menu: true
 </section>
 </section>
 
-<!-- Four -->
-<section id="four">
+<!-- seven -->
+<section id="seven">
     <div class="inner">
         <header class="major">
             <h2>Alumni</h2>
         </header>
      </div>
-<!-- Four -->
-<section id="four" class="spotlights">
+<!-- eight -->
+<section id="eight" class="spotlights">
     <section>
         <a href="people.html" class="image">
             <img src="assets/images/anon.jpg" alt="" data-position="center center" />
