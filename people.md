@@ -56,9 +56,6 @@ nav-menu: true
                     <h3>Grimaldo Elias Ureña Matos</h3>
                 </header>
                 <p>Elias studied Electrical and Mechanical engineering in the Technological University of Panama. Since 2009, he has been interested in interdisciplinary research on biological systems ranging from modeling energy flux in tropical forest to synthetic biology. In 2014 he joined Azevedo's lab, since then he has been working on how the Lambda phage genetic architecture affects its evolutionary strategies and epidemiological dynamics.</p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>
@@ -83,9 +80,6 @@ nav-menu: true
                     <h3>Robert Laroche</h3>
                 </header>
                 <p>Since 2017, Robert Laroche has conducted undergraduate research in Dr. Azevedo’s lab as part of a Senior Honors Thesis exploring a novel, holey version of an NK fitness landscape. He will receive his BS in Biology from the University of Houston in December 2018 and intends to pursue a PhD in evolutionary biology.</p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>
@@ -99,9 +93,6 @@ nav-menu: true
                     <h3>Lydia Golightly</h3>
                 </header>
                 <p>Lydia Golightly is an undergraduate at the University of Houston and will graduate in spring 2019 with BSs in Biology and Mathematics. She joined Ricardo Azevedo's group in early 2018 and works on Dobzhansky­–Muller incompatibilities, epistasis, and fitness landscapes. Lydia is also manager of Tony Frankino's lab, where she works on morphological scaling relationships.  She intends to pursue a PhD in evolutionary theory.</p>
-                <ul class="actions">
-                    <li><a href="generic.html" class="button">Learn more</a></li>
-                </ul>
             </div>
         </div>
     </section>
