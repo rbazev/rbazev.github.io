@@ -55,7 +55,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Grimaldo Elias Ureña Matos</h3>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>Elias studied Electrical and Mechanical engineering in the Technological University of Panama. Since 2009, he has been interested in interdisciplinary research on biological systems ranging from modeling energy flux in tropical forest to synthetic biology. In 2014 he joined Azevedo's lab, since then he has been working on how the Lambda phage genetic architecture affects its evolutionary strategies and epidemiological dynamics.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button">Learn more</a></li>
                 </ul>
