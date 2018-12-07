@@ -82,7 +82,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Robert Laroche</h3>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>Since 2017, Robert Laroche has conducted undergraduate research in Dr. Azevedo’s lab as part of a Senior Honors Thesis exploring a novel, holey version of an NK fitness landscape. He will receive his BS in Biology from the University of Houston in December 2018 and intends to pursue a PhD in evolutionary biology.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button">Learn more</a></li>
                 </ul>
@@ -98,7 +98,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Lydia Golightly</h3>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>Lydia Golightly is an undergraduate at the University of Houston and will graduate in spring 2019 with BSs in Biology and Mathematics. She joined Ricardo Azevedo's group in early 2018 and works on Dobzhansky­–Muller incompatibilities, epistasis, and fitness landscapes. Lydia is also manager of Tony Frankino's lab, where she works on morphological scaling relationships.  She intends to pursue a PhD in evolutionary theory.</p>
                 <ul class="actions">
                     <li><a href="generic.html" class="button">Learn more</a></li>
                 </ul>
