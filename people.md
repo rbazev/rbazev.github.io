@@ -29,7 +29,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Ricardo Azevedo, PhD</h3>
                 </header>
-                <p>Ricardo Azevedo received a BS in Biology from the University of Lisbon in 1992 and PhD in Evolutionary Biology from the University of Edingburgh in 1997. </p>
+                <p>Ricardo Azevedo received a BS in Biology from the University of Lisbon in 1992 and PhD in Evolutionary Biology from the University of Edingburgh in 1997. He is currently an Associate Professor in the <a href="http://www.uh.edu/nsm/biology-biochemistry/">Department of Biology & Biochemistry at the University of Houston</a>.</p>
             </div>
         </div>
     </section>
