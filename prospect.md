@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Prospective students'
-description: Join us
+description: 'Want to join the lab?'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
