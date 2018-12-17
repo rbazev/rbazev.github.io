@@ -137,7 +137,7 @@ nav-menu: true
 <section id="eight" class="spotlights">
     <section>
         <a href="people.html" class="image">
-            <img src="assets/images/anon.jpg" alt="" data-position="center center" />
+            <img src="assets/images/kedar.jpg" alt="" data-position="center center" />
         </a>
         <div class="content">
             <div class="inner">
