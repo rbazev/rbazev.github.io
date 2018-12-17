@@ -1,7 +1,7 @@
 ---
 title: People
 layout: landing
-description: 'Our team'
+description: 'The lab'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -144,7 +144,7 @@ nav-menu: true
                 <header class="major">
                     <h3>Kedar Karkare, PhD</h3>
                 </header>
-                <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                <p>Kedar Karkare received his bachelors degree in Biology from the University of North Carolina at Chapel Hill in 2014 and a PhD in Evolutionary Biology from the University of Houston in 2018. During his PhD, he worked with Ricardo Azevedo to improve Fisher's Geometric Model of Adaptation and with Tim Cooper to investigate the evolution of the <i>lac</i> operon in <i>E. coli</i>. He currently works at Mercury Data Science, a data science consulting group based in Houston.</p>
             </div>
         </div>
     </section>    <section>
